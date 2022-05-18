@@ -1,0 +1,4 @@
+E:\Trabajos\LoginForms\SpaceLogin\SpaceLogin\SpaceLogin\x64\Debug\SpaceLogin.vcxproj.AssemblyReference.cache
+E:\Trabajos\LoginForms\SpaceLogin\SpaceLogin\SpaceLogin\x64\Debug\SpaceLogin.vcxproj.SuggestedBindingRedirects.cache
+E:\Trabajos\LoginForms\SpaceLogin\SpaceLogin\SpaceLogin\x64\Debug\SpaceLogin.Login.resources
+E:\Trabajos\LoginForms\SpaceLogin\SpaceLogin\SpaceLogin\x64\Debug\SpaceLogin.vcxproj.GenerateResource.cache
